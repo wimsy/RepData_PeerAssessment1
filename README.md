@@ -1,3 +1,6 @@
+# README.md
+This is a repo for assignment 1 of [Reproducible Research](https://class.coursera.org/repdata-004/).
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
